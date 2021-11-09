@@ -1,7 +1,8 @@
 .form {
-    margin: 1rem 0;
+    margin: 0 auto;
     height: 19rem;
     overflow: auto;
+    text-align: center;
   } 
   
   .control {
@@ -14,6 +15,7 @@
     margin-bottom: 0.25rem;
     margin-top: 2rem;
     display: block;
+    color: white;
   }
   
   .control input {

@@ -17,11 +17,11 @@ const PlayerForm = (props) => {
     <Fragment>
       <form className={classes.form} onSubmit={formSubmitHandler}>
         <div className={classes.control}>
-          <label htmlFor="PlayerA">Player A name:</label>{" "}
+          <label htmlFor="PlayerA">Player A name:</label>
           <input type="text" ref={playerARef} />
         </div>
         <div className={classes.control}>
-          <label htmlFor="PlayerA">Player B name:</label>{" "}
+          <label htmlFor="PlayerA">Player B name:</label>
           <input type="text" ref={playerBRef} />
         </div>
         <button type="submit">Submit</button>

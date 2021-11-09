@@ -1,0 +1,47 @@
+.button {
+    font: inherit;
+    cursor: pointer;
+    border: 1px solid #8a2b06;
+    padding: 0.5rem 2rem;
+    border-radius: 25px;
+    margin-left: 1rem;
+  }
+.button:hover,
+.button:active {
+    background-color: powderblue;
+}
+.list {
+    list-style: none;
+    padding: 0.4rem;
+    margin-left: -2rem;
+}
+
+.reset {
+    display: flex;
+    flex-direction: row;
+}
+
+.moves {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 7rem;
+}
+.board{
+    align-content: center;
+}
+.status {
+    color: white;
+    font-size: 42px;
+    font-weight: bolder;
+    text-align: center;
+    margin: 25px;
+  }
+
+.align{
+    display: flex;
+    flex-direction: row;
+    padding: 2rem;
+    justify-content: center;
+    align-items: center;
+}
