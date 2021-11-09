@@ -16,9 +16,8 @@ This folder contains the raw ReactJS app of Tic Tac Toe. You might wanna use 'np
   *  Adding Reset Board and Reset Game buttons to refresh the state.
 
 # Here's a demo of how the app works:
-## The player Name validation:
-![Tic Tac Toe 2](https://user-images.githubusercontent.com/44497960/140912225-d589a49c-9c58-4eaa-9d51-81c96f53ce16.gif)
 
-## App in work:
-![Tic Tac Toe](https://user-images.githubusercontent.com/44497960/140911689-3cf5f109-365f-4ff1-b033-f7511ac70905.gif)
+https://user-images.githubusercontent.com/44497960/140979638-381f133c-7840-4232-973a-ab730c79919a.mp4
+
+
 
