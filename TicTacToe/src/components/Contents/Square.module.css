@@ -1,0 +1,9 @@
+.square {
+  min-width: 150px;
+  min-height: 150px;
+  font-size: 70px;
+  text-align: bottom;
+  color: #ff0000;
+  font-weight: bolder;
+  padding-top: 30px;
+}

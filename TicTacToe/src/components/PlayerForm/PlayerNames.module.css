@@ -1,0 +1,15 @@
+ .plu {
+     display: flex;
+     flex-direction: row;
+ }
+ .players {
+     font-size: 30px;
+     color : black;
+     margin: -1rem;
+     padding: 3rem;
+ }
+
+.chance {
+    color : red;
+    text-decoration: underline;
+}
