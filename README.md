@@ -8,7 +8,7 @@ This folder contains the following codes in python:
 ## TicTacToe:
 This folder contains the raw ReactJS app of Tic Tac Toe. You might wanna use 'npm install' before you start the development server( using 'npm start' )
 
-## Here's a demo of how the app works:
+# Here's a demo of how the app works:
 ## The player Name validation:
 ![Tic Tac Toe 2](https://user-images.githubusercontent.com/44497960/140912225-d589a49c-9c58-4eaa-9d51-81c96f53ce16.gif)
 
